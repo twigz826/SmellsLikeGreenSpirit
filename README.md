@@ -32,7 +32,7 @@ No further development is planned for the app.
 <figcaption>Once the app has loaded, the user is prompted to input information about their car journey:</figcaption><br>
 <br>
 <img src="assets/screenshots/HomeScreen.png" alt="home screen on loading" width="150" >
-</figure><br>
+</figure>
 
 <figure style="margin: auto;">
 <figcaption>The user fills in the licence plate and distance travelled (and can toggle between km and miles): </figcaption><br>
