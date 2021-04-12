@@ -28,8 +28,6 @@ No further development is planned for the app.
 
 ## Demo with screenshots
 
-#### Here's how the app works:
-<br>
 <figure style="margin: auto; layout: flex; flex-direction: row;">
 <figcaption>Once the app has loaded, the user is prompted to input information about their car journey:</figcaption><br>
 <br>
@@ -38,31 +36,37 @@ No further development is planned for the app.
 
 <figure style="margin: auto;">
 <figcaption>The user fills in the licence plate and distance travelled (and can toggle between km and miles): </figcaption><br>
+<br>
 <img src="assets/screenshots/HomeScreenEntry.png" alt="home screen filled in" width="150">
 </figure><br>
 
 <figure style="margin: auto;">
 <figcaption>The CO2 emissions for the journey are calculated from the information provided (a comparison is also provided to help contextualise the emissions):</figcaption><br>
+<br>
 <img src="assets/screenshots/ResultsScreen.png" alt="results for normal car" width="150">
 </figure><br>
 
 <figure style="margin: auto;">
 <figcaption>Clicking the "Offset this carbon!" button takes the user to our chosen page where they can purchase a carbon offset:</figcaption><br>
+<br>
 <img src="assets/screenshots/OffsetPage.png" alt="results for normal car" width="150">
 </figure><br>
 
 <figure style="margin: auto;">
 <figcaption>If the licence plate provided is an electric car, the journey does not emit any CO2:</figcaption><br>
+<br>
 <img src="assets/screenshots/ElectricCar.png" alt="results for electric car" width="150">
 </figure><br>
 
 <figure style="margin: auto;">
 <figcaption>The user can click "History" to see a log of all journeys:</figcaption><br>
+<br>
 <img src="assets/screenshots/JourneyHistory.png" alt="journey history" width="150">
 </figure><br>
 
 <figure style="margin: auto;">
 <figcaption>The user can also click "About" to learn more about the development team as well as additional information about carbon emissions:</figcaption><br>
+<br>
 <img src="assets/screenshots/AboutScreen.png" alt="about the app" width="150">
 </figure><br>
 
