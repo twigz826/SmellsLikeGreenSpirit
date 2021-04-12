@@ -29,9 +29,9 @@ No further development is planned for the app.
 ## Demo with screenshots
 
 #### Here's how the app works:
-<br>
 <figure style="margin: auto; layout: flex; flex-direction: row;">
 <figcaption>Once the app has loaded, the user is prompted to input information about their car journey:</figcaption><br>
+<br>
 <img src="assets/screenshots/HomeScreen.png" alt="home screen on loading" width="150" >
 </figure><br>
 
