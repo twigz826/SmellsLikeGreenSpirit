@@ -7,7 +7,7 @@
 
 <img  alt="Version"  src="https://img.shields.io/badge/contributors-5-brightgreen?style=for-the-badge"  />
 
-<img  alt="Version"  src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=for-the-badge"  />
+<img  alt="Version"  src="https://img.shields.io/badge/Maintained%3F-no-brightgreen?style=for-the-badge"  />
 
 <img  alt="Version"  src="https://img.shields.io/badge/last_commit-march-brightgreen?style=for-the-badge"  />
 
